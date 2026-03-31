@@ -1,4 +1,14 @@
 # Збор дапаможнікаў для стварэння перакладаў гульняў
 
 
-1. [Рэдагаванне TextMeshPro-шрыфту. Unity](TMP-fonts/readme.md) 
+## Гульні на рухавіку Unity
+
+### Рэдагаванне шрыфтоў
+1. [TextMeshPro-шрыфту. Варыянт 1](TMP-fonts/readme.md) 
+2. [TextMeshPro-шрыфту. Варыянт 2](TMP-fonts_2/readme.md)
+
+### Рэдагаванне тэксту
+1. [Рэдагаванне тэксту. Варыянт 1](Redact-text/readme.md)
+
+
+## 
